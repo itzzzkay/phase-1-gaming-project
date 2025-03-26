@@ -1,0 +1,221 @@
+{
+  "games": [
+    {
+      "id": 1,
+      "name": "Stray",
+      "image": "https://thumbs.gfycat.com/EquatorialIckyCat-max-1mb.gif",
+      "genre": "Adventure",
+      "mode": "Singleplayer",
+      "consoles": "PlayStation, Xbox, Nintendo Switch"
+    },
+    {
+      "id": 2,
+      "name": "Ghost of Tsushima",
+      "image": "https://thumbs.gfycat.com/EquatorialIckyCat-max-1mb.gif",
+      "genre": "Adventure",
+      "mode": "Singleplayer",
+      "consoles": "PC, PlayStation"
+    },
+    {
+      "id": 3,
+      "name": "The Legend of Zelda:Breath of the Wild",
+      "image": "https://thumbs.gfycat.com/EquatorialIckyCat-max-1mb.gif",
+      "genre": "Adventure",
+      "mode": "Singleplayer",
+      "consoles": "Nintendo Switch, Wii U"
+    },
+    {
+      "id": 4,
+      "name": "God of War",
+      "image": "https://thumbs.gfycat.com/EquatorialIckyCat-max-1mb.gif",
+      "genre": "Action",
+      "mode": "Singleplayer",
+      "consoles": "PC, PlayStation"
+    },
+    {
+      "id": 5,
+      "name": "Grand Theft Auto V",
+      "image": "https://thumbs.gfycat.com/EquatorialIckyCat-max-1mb.gif",
+      "genre": "Action",
+      "mode": "Multiplayer",
+      "consoles": "PC, PlayStation, Xbox"
+    },
+    {
+      "id": 6,
+      "name": "FC 25",
+      "image": "https://thumbs.gfycat.com/EquatorialIckyCat-max-1mb.gif",
+      "genre": "Sports",
+      "mode": "Multiplayer",
+      "consoles": "PC, PlayStation, Nintendo Switch, Xbox"
+    },
+    {
+      "id": 7,
+      "name": "NBA 2K25",
+      "image": "https://thumbs.gfycat.com/EquatorialIckyCat-max-1mb.gif",
+      "genre": "Sports",
+      "mode": "Multiplayer",
+      "consoles": "PlayStation, Xbox"
+    },
+    {
+      "id": 8,
+      "name": "Euro Truck Simulator",
+      "image": "https://thumbs.gfycat.com/EquatorialIckyCat-max-1mb.gif",
+      "genre": "Simulation",
+      "mode": "Multiplayer",
+      "consoles": "PC"
+    },
+    {
+      "id": 9,
+      "name": "Gran Tourismo 7",
+      "image": "https://thumbs.gfycat.com/EquatorialIckyCat-max-1mb.gif",
+      "genre": "Simulation",
+      "mode": "Multiplayer",
+      "consoles": "PlayStation"
+    },
+    {
+      "id": 10,
+      "name": "Hollow Kinght",
+      "image": "https://thumbs.gfycat.com/EquatorialIckyCat-max-1mb.gif",
+      "genre": "Platformer",
+      "mode": "Multiplayer",
+      "consoles": "PC, PlayStation, Nintendo Switch, Xbox"
+    },
+
+    {
+      "id": 11,
+      "name": "Super Mario Odyssey",
+      "image": "https://thumbs.gfycat.com/EquatorialIckyCat-max-1mb.gif",
+      "genre": "Platformer",
+      "mode": "Singleplayer",
+      "consoles": "Nintendo Switch"
+    },
+    {
+      "id": 12,
+      "name": "Elden Ring",
+      "image": "https://thumbs.gfycat.com/EquatorialIckyCat-max-1mb.gif",
+      "genre": "RPG",
+      "mode": "Multiplayer",
+      "consoles": "PC, PlayStation, Xbox"
+    },
+    {
+      "id": 13,
+      "name": "Black Myth: Wukong",
+      "image": "https://thumbs.gfycat.com/EquatorialIckyCat-max-1mb.gif",
+      "genre": "RPG",
+      "mode": "Singleplayer",
+      "consoles": "PC, PlayStation, Xbox"
+    },
+    {
+      "id": 14,
+      "name": "Call Of Duty: Warzone",
+      "image": "https://thumbs.gfycat.com/EquatorialIckyCat-max-1mb.gif",
+      "genre": "FPS",
+      "mode": "Multiplayer",
+      "consoles": "PC, PlayStation, Xbox"
+    },
+    {
+      "id": 15,
+      "name": "DOOM Eternal",
+      "image": "https://thumbs.gfycat.com/EquatorialIckyCat-max-1mb.gif",
+      "genre": "FPS",
+      "mode": "Multiplayer",
+      "consoles": "PC, PlayStation, Nintendo Switch, Xbox"
+    },
+    {
+      "id": 16,
+      "name": "Mortal Kombat 11",
+      "image": "https://thumbs.gfycat.com/EquatorialIckyCat-max-1mb.gif",
+      "genre": "Fighting",
+      "mode": "Multiplayer",
+      "consoles": "PC, PlayStation, Nintendo Switch, Xbox"
+    },
+    {
+      "id": 17,
+      "name": "Super Smash Bros. Ultimate",
+      "image": "https://thumbs.gfycat.com/EquatorialIckyCat-max-1mb.gif",
+      "genre": "Fighting",
+      "mode": "Multiplayer",
+      "consoles": "Nintendo Switch"
+    },
+    {
+      "id": 18,
+      "name": "Forza Horizon 5",
+      "image": "https://thumbs.gfycat.com/EquatorialIckyCat-max-1mb.gif",
+      "genre": "Racing",
+      "mode": "Multiplayer",
+      "consoles": "PC, PlayStation, Xbox"
+    },
+    {
+      "id": 19,
+      "name": "Need for Speed: Most Wanted",
+      "image": "https://thumbs.gfycat.com/EquatorialIckyCat-max-1mb.gif",
+      "genre": "Racing",
+      "mode": "Multiplayer",
+      "consoles": "PC, PlayStation, Wii U, Xbox"
+    },
+    {
+      "id": 20,
+      "name": "Among Us",
+      "image": "https://thumbs.gfycat.com/EquatorialIckyCat-max-1mb.gif",
+      "genre": "Party",
+      "mode": "Multiplayer",
+      "consoles": "PC, PlayStation, Nintendo Switch, Xbox"
+    },
+    {
+      "id": 21,
+      "name": "Mario Kart 8",
+      "image": "https://thumbs.gfycat.com/EquatorialIckyCat-max-1mb.gif",
+      "genre": "Party",
+      "mode": "Multiplayer",
+      "consoles": "Nintendo Switch, Wii U"
+    },
+    {
+      "id": 22,
+      "name": "Minecraft",
+      "image": "https://thumbs.gfycat.com/EquatorialIckyCat-max-1mb.gif",
+      "genre": "Survival",
+      "mode": "Multiplayer",
+      "consoles": "PC, PlayStation, Nintendo Switch, Xbox, Wii U"
+    },
+    {
+      "id": 23,
+      "name": "Rust",
+      "image": "https://thumbs.gfycat.com/EquatorialIckyCat-max-1mb.gif",
+      "genre": "Survival",
+      "mode": "Multiplayer",
+      "consoles": "PC, PlayStation, Xbox"
+    },
+    {
+      "id": 24,
+      "name": "Fortnite",
+      "image": "https://thumbs.gfycat.com/EquatorialIckyCat-max-1mb.gif",
+      "genre": "RPG",
+      "mode": "Battle Royale",
+      "consoles": "PC, PlayStation, Nintendo Switch, Xbox"
+    },
+    {
+      "id": 25,
+      "name": "Apex Legends",
+      "image": "https://thumbs.gfycat.com/EquatorialIckyCat-max-1mb.gif",
+      "genre": "Battle Royale",
+      "mode": "Multiplayer",
+      "consoles": "PC, PlayStation, Nintendo Switch, Xbox"
+    },
+    {
+      "id": 26,
+      "name": "Five Nights at Freddy's",
+      "image": "https://thumbs.gfycat.com/EquatorialIckyCat-max-1mb.gif",
+      "genre": "Horror",
+      "mode": "Singleplayer",
+      "consoles": "PC, PlayStation, Nintendo Switch, Xbox"
+    },
+    {
+      "id": 27,
+      "name": "Dead by Daylight",
+      "image": "https://thumbs.gfycat.com/EquatorialIckyCat-max-1mb.gif",
+      "genre": "Horror",
+      "mode": "Multiplayer",
+      "consoles": "PC, PlayStation, Nintendo Switch, Xbox"
+    }
+  ]
+}

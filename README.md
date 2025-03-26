@@ -2,7 +2,7 @@
 
 ## Description
 
-Have you ever completed a video and just basked in the enjoyment and satisfaction of your achievements. Of course you have. Sad to say, but the aftertaste(or is it afterfeeling) is an empty feeling upon realisation that there most likely is no other game that will match exactly how you feel. You may even reach the stage of hopelessly thrift buying games with the hope of rekindling the flame for gaming that the latter had ignited in you. HOWEVER!!! You have nothing to worry about because now that you have come across **PIXELVAULT** , strap in and get ready to have your dopamine levels peak once again. The project consists a simple form that takes the user input(that is, the game mode and genre) and using the data to generate game recommendations similar to the game you had in mind. This is possible through javaScript and the json server. Enjoy your new games.(I have 9 hours to finish to finish this)
+Have you ever completed a video and just basked in the enjoyment and satisfaction of your achievements. Of course you have. Sad to say, but the aftertaste(or is it afterfeeling) is an empty feeling upon realisation that there most likely is no other game that will match exactly how you feel. You may even reach the stage of hopelessly thrift buying games with the hope of rekindling the flame for gaming that the latter had ignited in you. HOWEVER!!! You have nothing to worry about because now that you have come across **PIXELVAULT** , strap in and get ready to have your dopamine levels peak once again. The project consists a simple form that takes the user input(that is, the game mode and genre) and using the data to generate game recommendations similar to the game you had in mind. This is possible through javaScript and the json server. Enjoy your new games.(I have 9 hours to finish this)
 
 ## Author
 
@@ -33,6 +33,7 @@ Have you ever completed a video and just basked in the enjoyment and satisfactio
 For any inquiries:
 
 - Instagram:
+
 ```bash
 _ky._.1e__
 ```
@@ -49,13 +50,13 @@ _ky._.1e__
  kylemwendwa19@gmail.com
 ```
 
-```
+````
 
 - Phone Number:
 
 ```bash
 0116211058 (take note ladies)
-```
+````
 
 ## BDD (Behavior Driven Development)
 
