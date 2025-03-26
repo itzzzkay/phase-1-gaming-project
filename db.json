@@ -189,8 +189,8 @@
       "id": 24,
       "name": "Fortnite",
       "image": "https://thumbs.gfycat.com/EquatorialIckyCat-max-1mb.gif",
-      "genre": "RPG",
-      "mode": "Battle Royale",
+      "genre": "Battle Royale",
+      "mode": "Multiplayer",
       "consoles": "PC, PlayStation, Nintendo Switch, Xbox"
     },
     {
