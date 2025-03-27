@@ -15,11 +15,10 @@
     <main>
       <div class="gameDescriptionContainer">
         <form id="gameDescriptionForm" action="">
-            <h1 id="descriptionTitle">
-                Choose!
-            </h1>
+          <h1 id="descriptionTitle">Choose!</h1>
           <div class="formChoices">
             <select class="selects" id="selectGenre">
+              <option value="" disabled selected>-- Select an option --</option>
               <option value="adventure">Adventure</option>
               <option value="action">Action</option>
               <option value="sports">Sports</option>
@@ -37,12 +36,16 @@
           </div>
           <div class="formChoices">
             <select class="selects" id="selectedMode">
+              <option value="" disabled selected>-- Select an option --</option>
               <option value="singleplayer">Singleplayer</option>
               <option value="multiplayer">Multiplayer</option>
             </select>
           </div>
           <button type="submit" class="submit">Get Your Recommendation</button>
         </form>
+      </div>
+      <div id="game-displayed">
+        
       </div>
     </main>
   </body>
