@@ -11,7 +11,7 @@ function getGameData() {
   fetch(URL)
     .then((res) => {
       if (!res.ok) {
-        throw new Error(response);
+        throw new Error(res.status);
       }
       return res.json();
     })
@@ -28,7 +28,7 @@ document
     event.preventDefault();
 
     const Genre = document.getElementById("selectGenre").value.trim();
-    const Mode = document.getElementById("selectModee").value.trim();
+    const Mode = document.getElementById("selectMode").value.trim();
 
     if (!Genre || !Mode) {
       alert(
@@ -41,8 +41,18 @@ document
 
 function filterGames(Genre, Mode) {
   const suggestion = gamesInfo.filter(
-    (games) => game.genre === Genre && games.mode === Mode
+    (game) => game.genre === Genre && game.mode === Mode
   );
+
+  if (suggestion.length > 0) {
+    output.textContent = `PixelVault offers you ${suggestion
+      .map((game) => game.name)
+      .join(" and ")}.`;
+    displayGames(suggestion);
+  } else {
+    output.textContent = `Brother, even PixelVault can't help you here!`;
+    game_displayed.innerHTML = "";
+  }
 }
 
 function displayGames(games) {
@@ -65,7 +75,3 @@ function displayGames(games) {
     game_displayed.appendChild(gameSpace);
   });
 }
-
-output.textContent = `We recommend that you check out ${suggestion
-  .map((game) => game.title)
-  .join(" and ")}.`;
