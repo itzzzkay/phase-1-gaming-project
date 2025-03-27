@@ -15,3 +15,19 @@ function getGameData() {
     })
 }
 
+document.getElementById("gameDescriptionForm")
+.addEventListener("submit", (event) => {
+    event.preventDefault()
+
+    const Genre = document.getElementById("selectGenre").value.trim()
+    const Mode = document.getElementById("selectModee").value.trim()
+})
+
+function filterGames() {
+
+}
+
+function displayGames(games) {
+    game-displayed.innerHTML = ""
+
+}
